@@ -1,0 +1,102 @@
+{
+  "response":"suckses",
+  "data" : [
+  {
+    "id": 1,
+    "title": "ANTV",
+    "desc": "ANTV STREAMING OK",
+    "url_stream": "http://edge.nim.mivo.tv/mp17pjqx1esapruf/antv2_576p/playlist.m3u8",
+    "url_image": "https://bytebucket.org/ocittwo/tvstream/raw/19306ec9ccf8cd4ffb790fd14e306b656afb6a28/images/antv.png?token=6a9b4372e658794766addbfbdd92f12516a38839"
+  },
+  {
+    "id":2,
+    "title":"SCTV",
+    "desc":"SCTV TV STREAMING",
+    "url_stream":"http://edge.nim.mivo.tv/mp17pjqx1esapruf/sctv2_576p/playlist.m3u8",
+    "url_image":"https://bytebucket.org/ocittwo/tvstream/raw/19306ec9ccf8cd4ffb790fd14e306b656afb6a28/images/sctv.png?token=ae71a201e83f0a8cee675bad578c6fb378e74f9f"
+  },
+  {
+    "id":3,
+    "title":"GLOBALTV",
+    "desc":"GLOBALTV TV STREAMING",
+    "url_stream":"http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index512.m3u8",
+    "url_image":"https://bytebucket.org/ocittwo/tvstream/raw/19306ec9ccf8cd4ffb790fd14e306b656afb6a28/images/globaltv.png?token=1221803470f9e9aa827abaccc69f37c0890005b1"
+  },
+  {
+    "id":4,
+    "title":"MNCTV",
+    "desc":"MNCTV TV STREAMING",
+    "url_stream":"http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index256.m3u8",
+    "url_image":"https://bytebucket.org/ocittwo/tvstream/raw/19306ec9ccf8cd4ffb790fd14e306b656afb6a28/images/mnctv.png?token=c616e94747d1c7c6ed5c235682f7c98d0a1c9b05"
+  },
+  {
+    "id":5,
+    "title":"METROTV",
+    "desc":"METROTV TV STREAMING",
+    "url_stream":"http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1599310349_b500000_sleng.m3u8",
+    "url_image":"https://bytebucket.org/ocittwo/tvstream/raw/19306ec9ccf8cd4ffb790fd14e306b656afb6a28/images/metrotv.png?token=c28d8861cd4d1364392cdf69b978536c2d318006"
+  },
+  {
+    "id":6,
+    "title":"TVONE",
+    "desc":"TVONE TV STREAMING",
+    "url_stream":"http://180.250.29.22/jhos/tvone_2/chunklist_w1518965746.m3u8",
+    "url_image":"https://bytebucket.org/ocittwo/tvstream/raw/19306ec9ccf8cd4ffb790fd14e306b656afb6a28/images/tvone.png?token=d0ace8520c9284905b8418ea77243a7a815be9bc"
+  },
+  {
+    "id":7,
+    "title":"TRANSTV",
+    "desc":"TRANSTV TV STREAMING",
+    "url_stream":"http://103.18.239.130/sedz1j6exeot/transtv2_all/sedz1j6exeot/transtv2_240p/chunks.m3u8?nimblesessionid=112439984&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjkvMjAxNSAgNTo1MzowNiBBTSZoYXNoX3ZhbHVlPWxucUsvZDVRNEFadlR5Ri9iL3lZc3c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTE%3D",
+    "url_image":"https://bytebucket.org/ocittwo/tvstream/raw/19306ec9ccf8cd4ffb790fd14e306b656afb6a28/images/transtv.png?token=993b9c5cce9e04a5670e80c875fac37aaa89967c"
+  },
+  {
+    "id":8,
+    "title":"TRANS7",
+    "desc":"TRANS7 TV STREAMING",
+    "url_stream":"http://119.81.31.12/sedz1j6exeot/trans72_all/sedz1j6exeot/trans72_240p/chunks.m3u8?nimblesessionid=1030598&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAxNSAgMzoyNToyOSBBTSZoYXNoX3ZhbHVlPTY4V00vazJ3bEVta2hDa1FwUUt5eXc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTE%3D",
+    "url_image":"https://bytebucket.org/ocittwo/tvstream/raw/19306ec9ccf8cd4ffb790fd14e306b656afb6a28/images/trans7.png?token=0d4c56da3810f39c89ddd501d119ab431e2b237f"
+  },
+  {
+    "id":9,
+    "title":"INDOSIAR",
+    "desc":"INDOSIAR TV STREAMING",
+    "url_stream":"http://tv.vidiostream.com/carry/indosiar.m3u8",
+    "url_image":"https://bytebucket.org/ocittwo/tvstream/raw/19306ec9ccf8cd4ffb790fd14e306b656afb6a28/images/indosiar.png?token=d3c0708d406b1411d5716c7009c4665c6fde4afd"
+  },
+  {
+    "id":10,
+    "title":"RCTI",
+    "desc":"RCTI TV STREAMING",
+    "url_stream":"http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index512.m3u8",
+    "url_image":"https://bytebucket.org/ocittwo/tvstream/raw/19306ec9ccf8cd4ffb790fd14e306b656afb6a28/images/rcti.png?token=b5c83e7f4176e49378c3b5adcc1b471ae73b9b8e"
+  },
+  {
+    "id":11,
+    "title":"KOMPASTV",
+    "desc":"KOMPASTV TV STREAMING",
+    "url_stream":"http://edge.nim.mivo.tv/mp17pjqx1esapruf/kompastv_288p/playlist.m3u8",
+    "url_image":"https://bytebucket.org/ocittwo/tvstream/raw/19306ec9ccf8cd4ffb790fd14e306b656afb6a28/images/kompastv.png?token=585310c1ad61d987701f488564c9d3eb20968a63"
+  },
+  {
+    "id":12,
+    "title":"SINDOTV",
+    "desc":"SINDOTV TV STREAMING",
+    "url_stream":"http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index1024.m3u8",
+    "url_image":"https://bytebucket.org/ocittwo/tvstream/raw/db4017cfbed620b63e7fc10251077d406ca20dfe/images/sindotv.png?token=4f70e263c292748578b030cafce51128e2f4e7ed"
+  },
+  {
+    "id":13,
+    "title":"NETTV",
+    "desc":"NETTV TV STREAMING",
+    "url_stream":"http://edge.nim.mivo.tv/mp17pjqx1esapruf/nettv_192p/playlist.m3u8",
+    "url_image":"https://bytebucket.org/ocittwo/tvstream/raw/db4017cfbed620b63e7fc10251077d406ca20dfe/images/nettv.png?token=c49375ad937b4420955cd12a9f20f530a4d687d2"
+  },
+  {
+    "id":14,
+    "title":"RTV",
+    "desc":"RTV TV STREAMING",
+    "url_stream":"http://edge.nim.mivo.tv/mp17pjqx1esapruf/rajawalitv.stream_192p/playlist.m3u8",
+    "url_image":"https://bytebucket.org/ocittwo/tvstream/raw/db4017cfbed620b63e7fc10251077d406ca20dfe/images/rtv.png?token=f53f66a28606f7367c41670332a9dd706f5b41e9"
+  }
+]}
