@@ -40,7 +40,7 @@
     "id":6,
     "title":"TVONE",
     "desc":"TVONE TV STREAMING",
-    "url_stream":"http://180.250.29.22/jhos/tvone_2/chunklist_w1518965746.m3u8",
+    "url_stream":"http://202.129.216.27:1935/tvone/tvone1/chunklist_w1754992275.m3u8",
     "url_image":"https://bytebucket.org/ocittwo/tvstream/raw/19306ec9ccf8cd4ffb790fd14e306b656afb6a28/images/tvone.png?token=d0ace8520c9284905b8418ea77243a7a815be9bc"
   },
   {
